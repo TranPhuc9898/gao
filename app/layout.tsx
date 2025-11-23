@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import { MagicalEffects } from "@/components/ui/MagicalEffects";
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://gao-cay-trom.com'),
@@ -33,7 +34,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi" className="scroll-smooth">
-      <body className="antialiased">
+      <body className="antialiased relative">
+        <MagicalEffects />
         <Navbar />
         <main>{children}</main>
         <Footer />

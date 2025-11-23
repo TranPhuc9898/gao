@@ -1,101 +1,98 @@
 [
   {
-    "id": "gao-thom-01",
-    "slug": "gao-thom",
-    "name": "Gạo Thơm",
+    "id": "gao-st25-01",
+    "slug": "gao-st25",
+    "name": "Gạo ST25",
     "category": "rice",
     "color": "green",
-    "tagline": "Một gạo lòng ta, có vị phù sa",
-    "description": "# Gạo Thơm – Hương vị đồng quê\n\nGạo thơm là loại gạo đặc sản với hương thơm tự nhiên, được trồng trên những cánh đồng lúa màu mỡ miền Bắc Việt Nam.\n\n## Nguồn gốc\n\nTrồng tại vùng đồng bằng sông Hồng, nơi đất đai phù sa màu mỡ và truyền thống canh tác lúa nước hàng nghìn năm tuổi. Người nông dân chăm sóc từng luống lúa bằng tình yêu và tâm huyết.\n\n## Đặc điểm nổi bật\n\n- Hạt gạo trắng ngần, dài, mảnh mai\n- Hương thơm tự nhiên đặc trưng\n- Cơm dẻo, mềm, không nát\n- Thu hoạch đúng mùa, phơi khô tự nhiên\n- 100% tự nhiên, không hóa chất\n\n## Giá trị dinh dưỡng\n\n- Giàu carbohydrate, cung cấp năng lượng\n- Chứa protein thực vật\n- Vitamin B, sắt, kẽm tự nhiên\n- Dễ tiêu hóa, phù hợp mọi lứa tuổi\n\n> \"Hạt gạo thơm – Tinh túy của đất trời, tình yêu của người làm ruộng\"",
+    "tagline": "Gạo ngon nhất thế giới",
+    "description": "# Gạo ST25 – Tuyệt phẩm gạo Việt\n\nGạo ST25 là niềm tự hào của nông nghiệp Việt Nam, vinh dự đạt giải \"Gạo ngon nhất thế giới\" năm 2019. Đây là kết quả của hơn 20 năm nghiên cứu và lai tạo của kỹ sư Hồ Quang Cua.\n\n## Đặc điểm nổi bật\n\n- **Hạt gạo:** Thon dài, trắng trong, không bạc bụng.\n- **Hương vị:** Mùi thơm lá dứa thoang thoảng hòa quyện cùng hương cốm non tự nhiên.\n- **Khi nấu:** Cơm dẻo, mềm, vị ngọt đậm đà từ tinh bột cao cấp. Đặc biệt cơm vẫn giữ được độ dẻo thơm ngay cả khi để nguội.\n\n## Giá trị dinh dưỡng\n\nST25 có hàm lượng protein cao (gấp 1.5 lần gạo thường), giàu vitamin và khoáng chất, phù hợp cho người cần bổ sung năng lượng và dinh dưỡng lành mạnh.\n\n> \"ST25 không chỉ là gạo, đó là tinh hoa trí tuệ và tâm huyết người Việt\"",
     "image": "/images/products/gao-st25-hero.png",
     "gallery": [
-      "/images/products/gao-st25-hero.png",
-      "/images/products/gao-thom-2.jpg",
-      "/images/products/gao-thom-packaging.jpg"
+      "/images/products/gao-st25-1.jpg",
+      "/images/products/gao-st25-2.jpg"
     ],
     "features": [
-      "Gạo thơm đặc sản vùng đồng bằng",
-      "Hương thơm tự nhiên đặc trưng",
-      "100% hữu cơ, không hóa chất",
-      "Cơm dẻo, mềm, không nát",
-      "Đóng gói chân không, giữ tươi lâu"
+      "Gạo ngon nhất thế giới 2019",
+      "Hương lá dứa & cốm non",
+      "Hạt dài, trắng trong",
+      "Cơm dẻo, ngọt đậm đà",
+      "Giàu protein & khoáng chất"
     ],
-    "origin": "Đồng bằng sông Hồng, Việt Nam",
-    "weight": "5kg, 10kg, 25kg",
-    "price": "85.000đ/kg",
-    "themeColor": "#8BC34A",
-    "accentColor": "#2E7D32",
-    "relatedProducts": ["gao-huyet-rong-01", "gao-gia-dui-01"],
-    "metadata": {
-      "title": "Gạo Thơm – Hương vị đồng quê Việt",
-      "description": "Gạo thơm đặc sản từ đồng bằng sông Hồng, hương thơm tự nhiên, cơm dẻo ngon, 100% hữu cơ",
-      "keywords": ["gạo thơm", "gạo hữu cơ", "gạo Việt", "cơm thơm", "nông nghiệp sạch"]
-    }
-  },
-  {
-    "id": "gao-huyet-rong-01",
-    "slug": "gao-huyet-rong",
-    "name": "Gạo Huyết Rồng",
-    "category": "rice",
-    "color": "pink",
-    "tagline": "Sức khỏe từ sắc đỏ thiên nhiên",
-    "description": "# Gạo Huyết Rồng – Kho tàng dinh dưỡng\n\nGạo huyết rồng là loại gạo quý hiếm với màu đỏ tự nhiên, chứa hàm lượng dinh dưỡng và chất chống oxy hóa cao gấp nhiều lần gạo trắng thông thường.\n\n## Nguồn gốc\n\nĐược trồng tại vùng cao nguyên, nơi khí hậu mát mẻ và đất đai giàu khoáng chất. Giống lúa này được lưu giữ và bảo tồn qua nhiều thế hệ.\n\n## Đặc điểm nổi bật\n\n- Hạt gạo màu đỏ tự nhiên, đặc biệt\n- Giàu anthocyanin, chất chống oxy hóa mạnh\n- Vị ngọt tự nhiên, thơm nhẹ\n- Kết cấu dai, giữ nguyên hình sau nấu\n- Nguồn dinh dưỡng cao cấp\n\n## Công dụng sức khỏe\n\n- Chống lão hóa, bảo vệ tế bào\n- Tốt cho tim mạch, tuần hoàn máu\n- Giàu chất xơ, hỗ trợ tiêu hóa\n- Kiểm soát đường huyết\n- Tăng cường hệ miễn dịch\n\n> \"Gạo huyết rồng – Món quà quý giá từ thiên nhiên cho sức khỏe\"",
-    "image": "/images/products/gao-huyet-rong-hero.jpg",
-    "gallery": [
-      "/images/products/gao-huyet-rong-1.jpg",
-      "/images/products/gao-huyet-rong-2.jpg",
-      "/images/products/gao-huyet-rong-packaging.jpg"
-    ],
-    "features": [
-      "Gạo đỏ quý hiếm, giàu dinh dưỡng",
-      "Chứa anthocyanin chống oxy hóa mạnh",
-      "Hỗ trợ sức khỏe tim mạch",
-      "Kiểm soát đường huyết tự nhiên",
-      "Vị ngọt thanh, thơm nhẹ"
-    ],
-    "origin": "Cao nguyên miền núi, Việt Nam",
+    "origin": "Sóc Trăng, Việt Nam",
     "weight": "5kg, 10kg",
-    "price": "150.000đ/kg",
-    "themeColor": "#F06292",
-    "accentColor": "#5D001E",
-    "relatedProducts": ["gao-thom-01", "gao-gia-dui-01"],
+    "price": "180.000đ/5kg",
+    "themeColor": "#388E3C",
+    "accentColor": "#1B5E20",
+    "relatedProducts": ["gao-st25-organic", "gao-5451"],
     "metadata": {
-      "title": "Gạo Huyết Rồng – Kho tàng dinh dưỡng thiên nhiên",
-      "description": "Gạo đỏ quý hiếm, giàu anthocyanin chống oxy hóa, tốt cho tim mạch và sức khỏe tổng thể",
-      "keywords": ["gạo huyết rồng", "gạo đỏ", "gạo dinh dưỡng", "chống oxy hóa", "sức khỏe"]
+      "title": "Gạo ST25 – Gạo ngon nhất thế giới",
+      "description": "Gạo ST25 chính hãng, hạt dài trắng trong, thơm mùi lá dứa, cơm dẻo ngọt. Niềm tự hào gạo Việt.",
+      "keywords": ["gạo ST25", "gạo ngon nhất thế giới", "gạo sóc trăng", "gạo thơm"]
     }
   },
   {
-    "id": "gao-gia-dui-01",
-    "slug": "gao-gia-dui",
-    "name": "Gạo Già Dui",
+    "id": "gao-st25-organic",
+    "slug": "gao-st25-huu-co",
+    "name": "Gạo ST25 Hữu Cơ",
     "category": "rice",
-    "color": "brown",
-    "tagline": "Truyền thống và tinh hoa thời gian",
-    "description": "# Gạo Già Dui – Hương vị truyền thống\n\nGạo già dui là giống lúa truyền thống của vùng đồng bằng, được người dân lưu giữ và canh tác theo phương pháp cổ truyền qua nhiều thế hệ.\n\n## Nguồn gốc\n\nGiống lúa già có từ xa xưa, được trồng theo phương pháp tự nhiên, không sử dụng thuốc trừ sâu hay phân bón hóa học. Mỗi hạt gạo mang theo hơi thở của thời gian và tình yêu của người nông dân.\n\n## Đặc điểm nổi bật\n\n- Hạt gạo màu nâu nhạt, dày dặn\n- Hương thơm đặc trưng, dễ nhận biết\n- Cơm dẻo dai, giữ nhiệt lâu\n- Giá trị dinh dưỡng cao\n- Phù hợp với người ưa hương vị truyền thống\n\n## Giá trị văn hóa\n\n- Gắn liền với ẩm thực truyền thống Việt\n- Được người già yêu thích\n- Thích hợp cho các món cơm cúng, lễ tết\n- Lưu giữ tinh hoa nông nghiệp xưa\n\n> \"Gạo già dui – Hương vị thuần khiết của làng quê xưa\"",
-    "image": "/images/products/gao-gia-dui-hero.jpg",
+    "color": "gold",
+    "tagline": "Tinh khiết chuẩn quốc tế",
+    "description": "# Gạo ST25 Hữu Cơ – Chuẩn mực sống xanh\n\nPhiên bản cao cấp nhất của dòng gạo ST25, được canh tác theo quy trình hữu cơ nghiêm ngặt (Organic), đạt các chứng nhận quốc tế uy tín.\n\n## Quy trình canh tác\n\n- **Mô hình Lúa - Tôm:** Lúa được trồng trên vùng đất nuôi tôm, cây lúa hấp thụ chất dinh dưỡng tự nhiên, hoàn toàn không sử dụng phân bón hóa học hay thuốc trừ sâu.\n- **An toàn tuyệt đối:** Không biến đổi gen, không chất kích thích tăng trưởng, không chất bảo quản.\n\n## Lợi ích sức khỏe\n\nLà lựa chọn hoàn hảo cho chế độ ăn thực dưỡng (Macrobiotics), người ăn kiêng, người cao tuổi và trẻ em nhờ độ an toàn và hàm lượng dinh dưỡng vượt trội.\n\n> \"Sự kết hợp hoàn hảo giữa giống lúa thượng hạng và quy trình canh tác thuận tự nhiên\"",
+    "image": "/images/products/gao-st25-organic-hero.png",
     "gallery": [
-      "/images/products/gao-gia-dui-1.jpg",
-      "/images/products/gao-gia-dui-2.jpg",
-      "/images/products/gao-gia-dui-packaging.jpg"
+      "/images/products/gao-st25-organic-1.jpg",
+      "/images/products/gao-st25-organic-2.jpg"
     ],
     "features": [
-      "Giống lúa truyền thống hàng trăm năm",
-      "Canh tác theo phương pháp cổ truyền",
-      "Không hóa chất, 100% tự nhiên",
-      "Cơm dẻo dai, hương thơm đặc trưng",
-      "Giá trị văn hóa và dinh dưỡng cao"
+      "Canh tác hữu cơ (Organic)",
+      "Mô hình Lúa - Tôm bền vững",
+      "Không hóa chất độc hại",
+      "An toàn tuyệt đối cho sức khỏe",
+      "Hương vị thuần khiết nhất"
     ],
-    "origin": "Các làng quê truyền thống, Việt Nam",
-    "weight": "5kg, 10kg, 25kg",
-    "price": "95.000đ/kg",
-    "themeColor": "#D7CCC8",
-    "accentColor": "#4E342E",
-    "relatedProducts": ["gao-thom-01", "gao-huyet-rong-01"],
+    "origin": "Vùng luân canh Lúa - Tôm, Sóc Trăng",
+    "weight": "2kg, 5kg",
+    "price": "260.000đ/5kg",
+    "themeColor": "#D4AF37",
+    "accentColor": "#827717",
+    "relatedProducts": ["gao-st25-01", "gao-5451"],
     "metadata": {
-      "title": "Gạo Già Dui – Truyền thống và tinh hoa",
-      "description": "Giống lúa truyền thống, canh tác tự nhiên, hương vị đậm đà của làng quê Việt xưa",
-      "keywords": ["gạo già", "gạo truyền thống", "gạo cổ truyền", "ẩm thực Việt", "văn hóa nông nghiệp"]
+      "title": "Gạo ST25 Hữu Cơ – Tinh khiết & An toàn",
+      "description": "Gạo ST25 Organic canh tác theo mô hình lúa tôm, không hóa chất, an toàn tuyệt đối cho sức khỏe.",
+      "keywords": ["gạo ST25 hữu cơ", "gạo organic", "gạo sạch", "lúa tôm"]
+    }
+  },
+  {
+    "id": "gao-5451",
+    "slug": "gao-5451",
+    "name": "Gạo 5451",
+    "category": "rice",
+    "color": "blue",
+    "tagline": "Dẻo thơm cho mọi nhà",
+    "description": "# Gạo 5451 – Bữa cơm gia đình ấm cúng\n\nGiống lúa OM 5451 trứ danh vùng Đồng bằng sông Cửu Long, là sự lựa chọn quen thuộc của hàng triệu gia đình Việt nhờ sự cân bằng hoàn hảo giữa độ dẻo và hương vị.\n\n## Đặc điểm\n\n- **Hạt gạo:** Thon dài, màu trắng sữa hơi đục, ít bạc bụng.\n- **Khi nấu:** Cơm dẻo vừa, mềm mại, tơi xốp, mùi thơm nhẹ nhàng dễ chịu.\n- **Ưu điểm:** Cơm vẫn mềm ngon ngay cả khi để nguội, rất dễ nấu và phù hợp với khẩu vị đại đa số người Việt.\n\n## Ứng dụng\n\nLà loại gạo \"quốc dân\" phù hợp cho bữa cơm gia đình hàng ngày, bếp ăn văn phòng, hay các quán cơm niêu yêu cầu chất lượng gạo ổn định.\n\n> \"Hương vị thân quen, gắn kết yêu thương trong từng bữa cơm nhà\"",
+    "image": "/images/products/gao-5451-hero.png",
+    "gallery": [
+      "/images/products/gao-5451-1.jpg",
+      "/images/products/gao-5451-2.jpg"
+    ],
+    "features": [
+      "Gạo dẻo vừa, mềm cơm",
+      "Hạt thon dài, trắng sữa",
+      "Dễ nấu, vị ngọt lành",
+      "Phù hợp mọi gia đình",
+      "Giá thành hợp lý"
+    ],
+    "origin": "Đồng bằng sông Cửu Long",
+    "weight": "10kg, 25kg",
+    "price": "145.000đ/10kg",
+    "themeColor": "#1976D2",
+    "accentColor": "#0D47A1",
+    "relatedProducts": ["gao-st25-01", "gao-st25-organic"],
+    "metadata": {
+      "title": "Gạo 5451 – Dẻo thơm, mềm cơm",
+      "description": "Gạo 5451 đặc sản miền Tây, cơm dẻo vừa, mềm ngon, giá tốt. Lựa chọn số 1 cho bữa cơm gia đình.",
+      "keywords": ["gạo 5451", "gạo dẻo", "gạo miền tây", "gạo ngon giá rẻ"]
     }
   }
 ]
