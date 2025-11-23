@@ -1,0 +1,84 @@
+[
+  {
+    "id": "gao-01",
+    "slug": "gao",
+    "name": "Gạo",
+    "category": "gao",
+    "tagline": "Tinh hoa từ ruộng đồng Việt",
+    "description": "# Hạt gạo – Cội nguồn của cuộc sống\n\nTừ những cánh đồng lúa xanh mướt miền Bắc, qua bàn tay người nông dân cần mẫu, mỗi hạt gạo đều mang trong mình câu chuyện của đất mẹ.\n\n## Nguồn gốc\n\nGạo của chúng tôi được trồng tại vùng đồng bằng sông Hồng, nơi đất đai màu mỡ và truyền thống canh tác lúa nước hàng nghìn năm tuổi.\n\n## Đặc điểm\n\n- Hạt gạo trắng ngần, dẻo thơm\n- Không sử dụng hóa chất độc hại\n- Quy trình canh tác bền vững\n- Thu hoạch đúng mùa, phơi khô tự nhiên\n\n> \"Hạt gạo nhỏ bé, nhưng chứa đựng cả tấm lòng của người làm ruộng\"",
+    "image": "/images/products/gao-hero.jpg",
+    "gallery": [
+      "/images/products/gao-1.jpg",
+      "/images/products/gao-2.jpg",
+      "/images/products/gao-3.jpg"
+    ],
+    "features": [
+      "Gạo hữu cơ, không hóa chất",
+      "Trồng tại đồng bằng sông Hồng",
+      "Quy trình canh tác truyền thống",
+      "Phơi khô tự nhiên",
+      "Hạt dẻo, thơm ngon"
+    ],
+    "origin": "Đồng bằng sông Hồng, Việt Nam",
+    "weight": "5kg, 10kg, 25kg",
+    "relatedProducts": ["cay-01", "trom-01"],
+    "metadata": {
+      "title": "Gạo – Tinh hoa từ ruộng đồng Việt",
+      "description": "Hạt gạo hữu cơ từ đồng bằng sông Hồng, mang hơi thở thiên nhiên và tình yêu của người nông dân Việt",
+      "keywords": ["gạo Việt", "gạo hữu cơ", "ruộng lúa", "nông nghiệp bền vững"]
+    }
+  },
+  {
+    "id": "cay-01",
+    "slug": "cay",
+    "name": "Cây",
+    "category": "cay",
+    "tagline": "Sức sống bền vững từ rừng xanh",
+    "description": "# Cây – Nhịp thở của đất trời\n\nCây xanh không chỉ là cảnh quan, mà còn là nguồn sống, là lá phổi của trái đất, là nơi trú ngụ của muôn loài.\n\n## Giá trị\n\nMỗi cái cây chúng tôi trồng đều hướng đến sự bền vững, tái tạo rừng, và bảo vệ hệ sinh thái tự nhiên.\n\n## Các loại cây\n\n- Cây bản địa Việt Nam\n- Cây ăn quả truyền thống\n- Cây dược liệu quý\n- Cây gỗ bền vững\n\n> \"Trồng một cây, nhận về cả rừng xanh cho thế hệ mai sau\"",
+    "image": "/images/products/cay-hero.jpg",
+    "gallery": [
+      "/images/products/cay-1.jpg",
+      "/images/products/cay-2.jpg"
+    ],
+    "features": [
+      "Cây bản địa Việt Nam",
+      "Phù hợp khí hậu nhiệt đới",
+      "Dễ trồng, dễ chăm sóc",
+      "Hỗ trợ hệ sinh thái",
+      "Tạo oxy, lọc không khí"
+    ],
+    "origin": "Các vùng rừng miền núi Việt Nam",
+    "relatedProducts": ["gao-01", "trom-01"],
+    "metadata": {
+      "title": "Cây – Sức sống bền vững từ rừng xanh",
+      "description": "Cây bản địa Việt Nam, góp phần bảo vệ môi trường và xây dựng hệ sinh thái bền vững",
+      "keywords": ["cây xanh", "cây bản địa", "bảo vệ môi trường", "rừng Việt Nam"]
+    }
+  },
+  {
+    "id": "trom-01",
+    "slug": "trom",
+    "name": "Trôm",
+    "category": "trom",
+    "tagline": "Vẻ đẹp hoang dã của thiên nhiên",
+    "description": "# Trôm – Nét đẹp giản dị của làng quê\n\nTrôm mọc hoang giữa cánh đồng, bên bờ suối, là một phần không thể thiếu trong ký ức tuổi thơ của bao thế hệ người Việt.\n\n## Ý nghĩa\n\nTrôm tượng trưng cho sự giản dị, bền bỉ và vẻ đẹp tự nhiên không cần tô vẽ.\n\n## Đặc điểm\n\n- Mọc tự nhiên, không cần chăm sóc nhiều\n- Có giá trị dược liệu\n- Là thức ăn cho gia súc\n- Bảo vệ đất, chống xói mòn\n\n> \"Trôm tuy nhỏ bé, nhưng là một phần thiên nhiên kỳ diệu\"",
+    "image": "/images/products/trom-hero.jpg",
+    "gallery": [
+      "/images/products/trom-1.jpg"
+    ],
+    "features": [
+      "Thực vật hoang dã bản địa",
+      "Giá trị dược liệu cao",
+      "Bảo vệ đất, chống xói mòn",
+      "Không cần chăm sóc phức tạp",
+      "Tượng trưng cho sự giản dị"
+    ],
+    "origin": "Khắp các vùng nông thôn Việt Nam",
+    "relatedProducts": ["gao-01", "cay-01"],
+    "metadata": {
+      "title": "Trôm – Vẻ đẹp hoang dã của thiên nhiên",
+      "description": "Thực vật hoang dã mang đậm dấu ấn thiên nhiên Việt, giá trị dược liệu và bảo vệ môi trường",
+      "keywords": ["trôm", "thực vật hoang dã", "dược liệu", "thiên nhiên Việt"]
+    }
+  }
+]

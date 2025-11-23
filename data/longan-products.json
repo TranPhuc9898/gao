@@ -1,0 +1,101 @@
+[
+  {
+    "id": "trom-tieu-hao-01",
+    "slug": "trom-tieu-hao",
+    "name": "Trôm Tiêu Hảo",
+    "category": "longan",
+    "color": "green",
+    "tagline": "Nhãn lồng Long An đặc sản",
+    "description": "# Trôm Tiêu Hảo – Vua của nhãn lồng\n\nTrôm Tiêu Hảo là giống nhãn lồng cao cấp nhất tại Long An, nổi tiếng với trái to, thịt dày, ngọt thanh và hương thơm đặc trưng.\n\n## Nguồn gốc\n\nĐược trồng tại vùng đất màu mỡ Long An, nơi có điều kiện khí hậu và thổ nhưỡng lý tưởng cho cây nhãn lồng phát triển. Giống Tiêu Hảo được chọn lọc và lai tạo qua nhiều thế hệ.\n\n## Đặc điểm nổi bật\n\n- Trái to, đều, vỏ vàng tươi\n- Thịt dày, ngọt thanh, ít hạt\n- Hương thơm nồng đặc trưng\n- Chất lượng cao cấp, xuất khẩu\n- Thu hoạch đúng mùa, tươi ngon\n\n## Giá trị dinh dưỡng\n\n- Giàu vitamin C, tăng cường miễn dịch\n- Chứa sắt, tốt cho máu\n- Kali, magie hỗ trợ tim mạch\n- Chất xơ, giúp tiêu hóa\n- Chống oxy hóa, làm đẹp da\n\n> \"Trôm Tiêu Hảo – Tinh hoa của đất Long An, món quà thiên nhiên ban tặng\"",
+    "image": "/images/products/trom-tieu-hao-hero.jpg",
+    "gallery": [
+      "/images/products/trom-tieu-hao-1.jpg",
+      "/images/products/trom-tieu-hao-2.jpg",
+      "/images/products/trom-tieu-hao-orchard.jpg"
+    ],
+    "features": [
+      "Nhãn lồng cao cấp Long An",
+      "Trái to, thịt dày, ngọt thanh",
+      "Hương thơm nồng đặc trưng",
+      "Giàu vitamin C và khoáng chất",
+      "Chuẩn xuất khẩu, an toàn VietGAP"
+    ],
+    "origin": "Long An, Việt Nam",
+    "weight": "1kg, 2kg, 5kg",
+    "price": "65.000đ/kg",
+    "themeColor": "#98CB4F",
+    "accentColor": "#588A3D",
+    "relatedProducts": ["trom-nhan-hung-01", "trom-lai-do-01"],
+    "metadata": {
+      "title": "Trôm Tiêu Hảo – Nhãn lồng cao cấp Long An",
+      "description": "Nhãn lồng Tiêu Hảo Long An, trái to thịt dày, ngọt thanh, giàu dinh dưỡng, chuẩn xuất khẩu",
+      "keywords": ["nhãn lồng", "trôm Long An", "Tiêu Hảo", "trái cây", "đặc sản Long An"]
+    }
+  },
+  {
+    "id": "trom-nhan-hung-01",
+    "slug": "trom-nhan-hung",
+    "name": "Trôm Nhãn Hưng",
+    "category": "longan",
+    "color": "orange",
+    "tagline": "Ngọt ngào hương vị truyền thống",
+    "description": "# Trôm Nhãn Hưng – Giống nhãn truyền thống\n\nNhãn Hưng là giống nhãn lồng truyền thống được người dân Long An ưa chuộng, với vị ngọt đậm đà và thịt dày, giòn, ngon miệng.\n\n## Nguồn gốc\n\nGiống nhãn Hưng có từ lâu đời tại Long An, được trồng theo phương pháp truyền thống, kế thừa kinh nghiệm của ông cha. Cây nhãn Hưng thường sống lâu năm và cho trái ổn định.\n\n## Đặc điểm nổi bật\n\n- Trái vừa phải, đều tay\n- Thịt dày, giòn, ngọt đậm\n- Vị ngọt tự nhiên, không gắt\n- Dễ bóc vỏ, thịt dính hạt ít\n- Giữ được lâu sau thu hoạch\n\n## Công dụng\n\n- Ăn tươi ngon miệng\n- Chế biến món tráng miệng\n- Sấy khô làm nhãn nhục\n- Ngâm rượu dược liệu\n- Nấu chè, làm nước giải khát\n\n> \"Nhãn Hưng – Hương vị tuổi thơ, ký ức làng quê không bao giờ phai\"",
+    "image": "/images/products/trom-nhan-hung-hero.jpg",
+    "gallery": [
+      "/images/products/trom-nhan-hung-1.jpg",
+      "/images/products/trom-nhan-hung-2.jpg",
+      "/images/products/trom-nhan-hung-orchard.jpg"
+    ],
+    "features": [
+      "Giống nhãn truyền thống Long An",
+      "Thịt dày, giòn, ngọt đậm đà",
+      "Vị ngọt tự nhiên không gắt",
+      "Phù hợp ăn tươi và chế biến",
+      "Trồng theo phương pháp an toàn"
+    ],
+    "origin": "Long An, Việt Nam",
+    "weight": "1kg, 2kg, 5kg",
+    "price": "45.000đ/kg",
+    "themeColor": "#DBA728",
+    "accentColor": "#A47149",
+    "relatedProducts": ["trom-tieu-hao-01", "trom-lai-do-01"],
+    "metadata": {
+      "title": "Trôm Nhãn Hưng – Giống nhãn truyền thống Long An",
+      "description": "Nhãn Hưng Long An, thịt dày giòn, ngọt đậm, vị ngọt tự nhiên, phù hợp mọi lứa tuổi",
+      "keywords": ["nhãn Hưng", "nhãn truyền thống", "trôm Long An", "trái cây Long An"]
+    }
+  },
+  {
+    "id": "trom-lai-do-01",
+    "slug": "trom-lai-do",
+    "name": "Trôm Lai Đỏ",
+    "category": "longan",
+    "color": "pink",
+    "tagline": "Giống nhãn mới, độc đáo hiếm có",
+    "description": "# Trôm Lai Đỏ – Sự khác biệt độc đáo\n\nTrôm Lai Đỏ là giống nhãn lồng mới được lai tạo, nổi bật với màu vỏ đỏ cam đặc biệt, thịt dày và vị ngọt thanh đặc trưng.\n\n## Nguồn gốc\n\nĐược nghiên cứu và lai tạo tại các trại thực nghiệm Long An, giống Lai Đỏ kết hợp ưu điểm của nhiều giống nhãn truyền thống, tạo ra sản phẩm độc đáo và chất lượng cao.\n\n## Đặc điểm nổi bật\n\n- Vỏ màu đỏ cam độc đáo\n- Trái to, thịt dày, mọng nước\n- Vị ngọt thanh, hậu vị dài\n- Hương thơm nhẹ, dễ chịu\n- Giá trị thẩm mỹ cao, thu hút\n\n## Ưu điểm vượt trội\n\n- Màu sắc bắt mắt, dễ bán\n- Chất lượng ổn định\n- Chống chịu sâu bệnh tốt\n- Năng suất cao\n- Phù hợp làm quà biếu cao cấp\n\n> \"Trôm Lai Đỏ – Sự đổi mới sáng tạo trong nông nghiệp Việt\"",
+    "image": "/images/products/trom-lai-do-hero.jpg",
+    "gallery": [
+      "/images/products/trom-lai-do-1.jpg",
+      "/images/products/trom-lai-do-2.jpg",
+      "/images/products/trom-lai-do-orchard.jpg"
+    ],
+    "features": [
+      "Giống nhãn lai tạo mới, độc đáo",
+      "Vỏ đỏ cam bắt mắt",
+      "Trái to, thịt dày mọng nước",
+      "Vị ngọt thanh, hậu vị dài",
+      "Phù hợp làm quà biếu cao cấp"
+    ],
+    "origin": "Long An, Việt Nam",
+    "weight": "1kg, 2kg",
+    "price": "75.000đ/kg",
+    "themeColor": "#F06292",
+    "accentColor": "#C2185B",
+    "relatedProducts": ["trom-tieu-hao-01", "trom-nhan-hung-01"],
+    "metadata": {
+      "title": "Trôm Lai Đỏ – Giống nhãn mới độc đáo",
+      "description": "Nhãn Lai Đỏ Long An, vỏ đỏ cam đặc biệt, trái to thịt dày, vị ngọt thanh, quà biếu cao cấp",
+      "keywords": ["nhãn lai đỏ", "nhãn độc đáo", "trôm Long An", "quà biếu", "trái cây cao cấp"]
+    }
+  }
+]

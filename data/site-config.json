@@ -1,0 +1,16 @@
+{
+  "name": "Gạo – Cây – Trôm",
+  "tagline": "Hạt gạo – Cội nguồn từ đất mẹ",
+  "description": "Website chia sẻ về thiên nhiên Việt Nam, hành trình hạt gạo từ ruộng đồng, giá trị của cây xanh và vẻ đẹp hoang dã của thiên nhiên",
+  "url": "https://gao-cay-trom.com",
+  "logo": "/images/logo.svg",
+  "social": {
+    "facebook": "https://facebook.com/gaocaytrom",
+    "instagram": "https://instagram.com/gaocaytrom",
+    "twitter": "https://twitter.com/gaocaytrom"
+  },
+  "contact": {
+    "email": "hello@gao-cay-trom.com",
+    "phone": "+84 123 456 789"
+  }
+}

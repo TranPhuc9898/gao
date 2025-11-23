@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌾 Gạo – Cây – Trôm | Thiên Nhiên Việt
 
-## Getting Started
+Website thơ mộng về thiên nhiên Việt Nam, hành trình hạt gạo từ đất mẹ, và văn hóa nông nghiệp bền vững.
 
-First, run the development server:
+## ✨ Features
+
+- ✅ **Next.js 14 App Router** - SSG optimization
+- ✅ **Perfect SEO** - Metadata, Sitemap, Robots.txt
+- ✅ **TailwindCSS** - Responsive, Vietnamese-inspired colors
+- ✅ **TypeScript** - Type-safe development
+- ✅ **Markdown Support** - Rich blog content
+- ✅ **Unsplash Integration** - Free stock photos
+
+## 🚀 Quick Start
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📄 Pages
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Home** (`/`) - Hero, Products Grid, Story, Blog Preview
+- **Products** (`/products/[slug]`) - Gạo, Cây, Trôm
+- **Blog** (`/blog`) - List & Detail pages
+- **Sitemap** (`/sitemap.xml`) - Auto-generated
+- **Robots** (`/robots.txt`) - SEO configuration
 
-## Learn More
+## 🎨 Design System
 
-To learn more about Next.js, take a look at the following resources:
+### Colors
+```
+Earth:  #A47149  /* Đất nâu */
+Forest: #4A7C59  /* Xanh lá */
+Rice:   #F4EBD0  /* Be lúa */
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Typography
+- **Serif**: Playfair Display (headings)
+- **Sans**: Inter (body text)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📁 Structure
 
-## Deploy on Vercel
+```
+app/              # Next.js pages
+components/       # React components
+  ├── layout/     # Navbar, Footer
+  ├── home/       # Home page sections
+  ├── ui/         # Reusable UI (Button, Card)
+  └── blog/       # Blog components
+data/             # JSON data files
+lib/              # Utilities & types
+public/images/    # Static images
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 Content Management
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Add Product
+Edit `data/products.json`
+
+### Add Blog Post
+Edit `data/blogs.json`
+
+### Update Site Config
+Edit `data/site-config.json`
+
+## 🛠️ Tech Stack
+
+- Next.js 14+ (App Router)
+- TypeScript
+- TailwindCSS
+- react-markdown
+- Unsplash (images)
+
+## 📦 Deployment
+
+### Vercel (Recommended)
+```bash
+vercel
+```
+
+### Build for Production
+```bash
+npm run build
+npm start
+```
+
+## 🎯 Performance Targets
+
+- Lighthouse: 95+
+- FCP: < 1.5s
+- LCP: < 2.5s
+- CLS: < 0.1
+
+---
+
+**Built with ❤️ for Vietnamese Nature**
+
+🌾 Hạt gạo – Cội nguồn từ đất mẹ 🌾
+# gao

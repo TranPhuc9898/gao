@@ -1,3 +1,6 @@
+/* Google Fonts must be imported first */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;600;700&family=Dancing+Script:wght@400;500;600;700&display=swap');
+
 @import "tailwindcss";
 
 :root {
@@ -6,10 +9,42 @@
 }
 
 @theme inline {
+  /* Gạo Sạch Cây Trôm - Primary greens from hero */
+  --color-primary: #389E4C;       /* Main brand green */
+  --color-primary-light: #4CAF50; /* Badge green */
+  --color-primary-dark: #2B8C40;  /* Darker green */
+
+  /* Rice branding palette from Behance */
+  --color-earth-dark: #216436;    /* Dark forest */
+  --color-earth-medium: #588A3D;  /* Medium green */
+  --color-earth-light: #98CB4F;   /* Light lime */
+
+  /* Accent colors */
+  --color-yellow: #DEC024;        /* Golden yellow */
+  --color-orange: #DBA728;        /* Warm orange */
+  --color-pink: #F06292;          /* Gạo Huyết Rồng */
+  --color-brown: #D7CCC8;         /* Gạo Già */
+
+  /* Neutral colors */
+  --color-cream: #F5F5F0;         /* Off-white/packaging */
+  --color-cream-light: #FFF8E7;   /* Lighter cream */
+  --color-cream-dark: #E9EFE2;    /* Light green bg */
+
+  /* Text colors */
+  --color-text-dark: #333333;
+  --color-text-gray: #555555;
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  /* Typography - Script + Bold mix like packaging */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-script: 'Dancing Script', cursive;
+
+  /* Font sizes */
+  --font-size-hero: 5rem;
+  --line-height-hero: 1.1;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,5 +57,19 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar hide utility */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }

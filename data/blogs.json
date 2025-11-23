@@ -1,0 +1,62 @@
+[
+  {
+    "id": "blog-01",
+    "slug": "van-hoa-trong-lua",
+    "title": "Văn hóa trồng lúa – Di sản ngàn năm của dân tộc Việt",
+    "excerpt": "Trồng lúa không chỉ là nghề, mà còn là văn hóa, là linh hồn của người Việt. Từ thuở xa xưa, hạt giống lúa đã gắn bó với mỗi gia đình, mỗi làng quê.",
+    "content": "# Văn hóa trồng lúa – Di sản ngàn năm\n\nTrồng lúa ở Việt Nam không đơn thuần là hoạt động sản xuất, mà còn là nền tảng văn hóa, là linh hồn của dân tộc.\n\n## Lịch sử\n\nTheo các nhà khảo cổ học, người Việt đã biết trồng lúa từ hơn 4000 năm trước. Văn hóa lúa nước hình thành nên tính cách cộng đồng, tinh thần đoàn kết của người Việt.\n\n## Quy trình canh tác truyền thống\n\n1. **Làm đất** - Cày, bừa để đất tơi xốp\n2. **Gieo mạ** - Chọn giống, ngâm hạt, gieo vào luống\n3. **Cấy** - Nhổ mạ, cấy xuống ruộng\n4. **Chăm sóc** - Tưới nước, làm cỏ, bón phân\n5. **Thu hoạch** - Gặt lúa, phơi khô, đập lúa\n\n## Giá trị văn hóa\n\n> \"Nhất thân, nhì thổ, tam cần, tứ giống\"\n\nCâu tục ngữ này thể hiện triết lý canh tác: con người, đất đai, sự cần mẫu và giống lúa tốt.\n\n## Các lễ hội liên quan\n\n- **Lễ hội cầu mùa** - Đầu mùa xuân\n- **Lễ tạ điền** - Sau thu hoạch\n- **Hội làm đồng** - Ngày khởi công cấy lúa\n\nVăn hóa lúa nước không chỉ tạo nên cảnh quan đẹp, mà còn định hình nên tâm hồn, tính cách của người Việt qua bao thế hệ.",
+    "featuredImage": "/images/blog/van-hoa-trong-lua.jpg",
+    "author": {
+      "name": "Nguyễn Văn A",
+      "avatar": "/images/authors/author-1.jpg"
+    },
+    "publishedAt": "2025-01-15T10:00:00Z",
+    "tags": ["văn hóa", "lúa nước", "truyền thống"],
+    "readingTime": 5,
+    "metadata": {
+      "title": "Văn hóa trồng lúa – Di sản ngàn năm của Việt Nam",
+      "description": "Khám phá văn hóa lúa nước Việt Nam, từ lịch sử hàng nghìn năm đến quy trình canh tác truyền thống và các lễ hội dân gian",
+      "keywords": ["văn hóa lúa nước", "trồng lúa Việt Nam", "nông nghiệp truyền thống"]
+    }
+  },
+  {
+    "id": "blog-02",
+    "slug": "bao-ton-cay-ban-dia",
+    "title": "Bảo tồn cây bản địa – Trách nhiệm với thế hệ mai sau",
+    "excerpt": "Cây bản địa đang dần biến mất trước sự xâm lấn của các loài ngoại lai. Việc bảo tồn không chỉ là nhiệm vụ của nhà nước, mà còn là trách nhiệm của mỗi người dân.",
+    "content": "# Bảo tồn cây bản địa\n\nCây bản địa Việt Nam đang đối mặt với nguy cơ tuyệt chủng do biến đổi khí hậu và sự xâm lấn của các loài ngoại lai.\n\n## Tại sao phải bảo tồn?\n\n- **Đa dạng sinh học**: Mỗi loài cây là một mắt xích quan trọng trong hệ sinh thái\n- **Dược liệu quý**: Nhiều cây bản địa có giá trị y học cao\n- **Văn hóa dân tộc**: Gắn liền với lịch sử, phong tục\n- **Thích nghi khí hậu**: Cây bản địa thích ứng tốt với môi trường địa phương\n\n## Các loài cây bản địa cần bảo tồn\n\n1. Lim xanh (Erythrophleum fordii)\n2. Sưa đỏ (Dalbergia cochinchinensis)\n3. Trắc (Dalbergia oliveri)\n4. Nghiến (Burretiodendron hsienmu)\n5. Gỗ hương (Dalbergia tonkinensis)\n\n## Cách tham gia\n\n- Trồng cây bản địa trong vườn nhà\n- Tham gia các chiến dịch bảo vệ rừng\n- Giáo dục thế hệ trẻ về giá trị cây bản địa\n- Hỗ trợ các tổ chức bảo tồn\n\n> \"Bảo vệ cây bản địa hôm nay là giữ gìn tương lai xanh cho mai sau\"",
+    "featuredImage": "/images/blog/bao-ton-cay.jpg",
+    "author": {
+      "name": "Trần Thị B",
+      "avatar": "/images/authors/author-2.jpg"
+    },
+    "publishedAt": "2025-01-10T14:30:00Z",
+    "tags": ["bảo tồn", "cây bản địa", "môi trường"],
+    "readingTime": 6,
+    "metadata": {
+      "title": "Bảo tồn cây bản địa – Trách nhiệm với thế hệ mai sau",
+      "description": "Tầm quan trọng của việc bảo tồn cây bản địa Việt Nam, các loài cây quý cần được bảo vệ và cách tham gia",
+      "keywords": ["bảo tồn cây", "cây bản địa Việt Nam", "đa dạng sinh học"]
+    }
+  },
+  {
+    "id": "blog-03",
+    "slug": "ve-dep-thien-nhien",
+    "title": "Vẻ đẹp thiên nhiên làng quê Việt – Một chuyến về nguồn cội",
+    "excerpt": "Làng quê Việt với những cánh đồng lúa chín vàng, con đường đất đỏ uốn lượn, và tiếng chim hót vang lên mỗi sáng sớm. Đó là nơi mà tâm hồn được thanh lọc.",
+    "content": "# Vẻ đẹp thiên nhiên làng quê Việt\n\nLàng quê Việt Nam mang một vẻ đẹp giản dị nhưng đầy mê hoặc, nơi con người sống chan hòa cùng thiên nhiên.\n\n## Cánh đồng lúa\n\nMùa xuân, cánh đồng phủ màu xanh non. Mùa hạ, lúa chín vàng rực rỡ. Mùa thu, rơm rạ phơi khô. Mùa đông, đất nghỉ ngơi chờ vụ mới.\n\n## Con đường làng\n\nNhững con đường đất đỏ uốn lượn giữa cánh đồng, hai bên là hàng tre xanh mướt. Buổi sáng sớm, sương mù bao phủ tạo nên khung cảnh thơ mộng.\n\n## Âm thanh thiên nhiên\n\n- Tiếng gà gáy báo hiệu bình minh\n- Tiếng chim hót trên cành cây\n- Tiếng trâu bò nhai cỏ\n- Tiếng thúng thắng trên đường đồng\n- Tiếng lúa reo trong gió\n\n## Hương vị làng quê\n\n- Mùi lúa mới\n- Hương hoa sữa nồng nàn\n- Mùi đất sau cơn mưa\n- Hương khói bếp chiều\n\n> \"Làng quê là nơi ta trở về mỗi khi tâm hồn mệt mỏi\"\n\n## Lời kết\n\nDù ở đâu, trong lòng mỗi người Việt đều có một góc làng quê yêu dấu, nơi gắn với tuổi thơ, với ký ức về ông bà, cha mẹ, và cánh đồng lúa xanh mướt.",
+    "featuredImage": "/images/blog/ve-dep-thien-nhien.jpg",
+    "author": {
+      "name": "Lê Văn C",
+      "avatar": "/images/authors/author-3.jpg"
+    },
+    "publishedAt": "2025-01-05T09:00:00Z",
+    "tags": ["thiên nhiên", "làng quê", "ký ức"],
+    "readingTime": 4,
+    "metadata": {
+      "title": "Vẻ đẹp thiên nhiên làng quê Việt – Chuyến về nguồn cội",
+      "description": "Khám phá vẻ đẹp giản dị mà đầy mê hoặc của làng quê Việt Nam, nơi con người sống hòa mình cùng thiên nhiên",
+      "keywords": ["làng quê Việt", "thiên nhiên", "cánh đồng lúa", "nông thôn"]
+    }
+  }
+]
