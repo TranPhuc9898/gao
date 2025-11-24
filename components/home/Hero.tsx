@@ -22,7 +22,7 @@ export function Hero() {
         className="absolute inset-0 z-0"
       >
         <Image
-          src="/images/hero-bg.png"
+          src="/images/products/Gemini_Generated_Image_ng5sh2ng5sh2ng5s.png"
           alt="Gạo Cây Trôm Hero"
           fill
           className="object-cover"

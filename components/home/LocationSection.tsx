@@ -19,7 +19,7 @@ export default function LocationSection() {
             {/* Top Image - Rice Fields */}
             <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/images/products/gao-st25-hero.png"
+                src="/images/products/Gemini_Generated_Image_ng5sh2ng5sh2ng5s.png"
                 alt="Gạo Sạch Cây Trôm ST25 - Long An"
                 fill
                 className="object-cover"

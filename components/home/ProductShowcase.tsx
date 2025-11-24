@@ -1,6 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
+import Image from 'next/image'
 import { useState } from 'react'
 import riceProducts from '@/data/rice-products.json'
 
@@ -97,22 +98,29 @@ export default function ProductShowcase() {
                     ))}
                   </ul>
 
-                  <div className="flex items-center gap-4">
-                    <button className="px-8 py-3 bg-primary text-white font-bold rounded-full hover:bg-primary-dark transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 duration-200">
-                      Đặt mua ngay
-                    </button>
-                    <span className="text-2xl font-bold text-primary">
-                      {activeProduct.price}
-                    </span>
+                  <div className="flex flex-col gap-3">
+                    <div className="flex items-center gap-4">
+                      <button className="px-8 py-3 bg-primary text-white font-bold rounded-full hover:bg-primary-dark transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 duration-200">
+                        Đặt mua ngay
+                      </button>
+                      <span className="text-2xl font-bold text-primary">
+                        {activeProduct.price}
+                      </span>
+                    </div>
+                    <p className="text-sm text-gray-500 italic">
+                      * Mua từ thiện? Liên hệ <a href="tel:0784691369" className="font-bold text-primary hover:underline">078 469 1369</a> (Cô Thảo) để có giá hỗ trợ tốt nhất.
+                    </p>
                   </div>
                 </div>
 
                 {/* Product Image Placeholder */}
                 <div className="relative aspect-[4/5] rounded-2xl bg-gray-100 overflow-hidden group">
-                  <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200" />
-                  <div className="absolute inset-0 flex items-center justify-center text-gray-400 font-medium">
-                    Hình ảnh {activeProduct.name}
-                  </div>
+                  <Image
+                    src={activeProduct.image}
+                    alt={activeProduct.name}
+                    fill
+                    className="object-cover transition-transform duration-700 group-hover:scale-105"
+                  />
                   
                   {/* Hover Effect Overlay */}
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors duration-500" />

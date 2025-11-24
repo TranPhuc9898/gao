@@ -21,7 +21,7 @@
     ],
     "origin": "Sóc Trăng, Việt Nam",
     "weight": "5kg, 10kg",
-    "price": "180.000đ/5kg",
+    "price": "Thương lượng",
     "themeColor": "#388E3C",
     "accentColor": "#1B5E20",
     "relatedProducts": ["gao-st25-organic", "gao-5451"],
@@ -39,7 +39,7 @@
     "color": "gold",
     "tagline": "Tinh khiết chuẩn quốc tế",
     "description": "# Gạo ST25 Hữu Cơ – Chuẩn mực sống xanh\n\nPhiên bản cao cấp nhất của dòng gạo ST25, được canh tác theo quy trình hữu cơ nghiêm ngặt (Organic), đạt các chứng nhận quốc tế uy tín.\n\n## Quy trình canh tác\n\n- **Mô hình Lúa - Tôm:** Lúa được trồng trên vùng đất nuôi tôm, cây lúa hấp thụ chất dinh dưỡng tự nhiên, hoàn toàn không sử dụng phân bón hóa học hay thuốc trừ sâu.\n- **An toàn tuyệt đối:** Không biến đổi gen, không chất kích thích tăng trưởng, không chất bảo quản.\n\n## Lợi ích sức khỏe\n\nLà lựa chọn hoàn hảo cho chế độ ăn thực dưỡng (Macrobiotics), người ăn kiêng, người cao tuổi và trẻ em nhờ độ an toàn và hàm lượng dinh dưỡng vượt trội.\n\n> \"Sự kết hợp hoàn hảo giữa giống lúa thượng hạng và quy trình canh tác thuận tự nhiên\"",
-    "image": "/images/products/gao-st25-organic-hero.png",
+    "image": "/images/hero-bg-new.png",
     "gallery": [
       "/images/products/gao-st25-organic-1.jpg",
       "/images/products/gao-st25-organic-2.jpg"
@@ -53,7 +53,7 @@
     ],
     "origin": "Vùng luân canh Lúa - Tôm, Sóc Trăng",
     "weight": "2kg, 5kg",
-    "price": "260.000đ/5kg",
+    "price": "Thương lượng",
     "themeColor": "#D4AF37",
     "accentColor": "#827717",
     "relatedProducts": ["gao-st25-01", "gao-5451"],
@@ -71,7 +71,7 @@
     "color": "blue",
     "tagline": "Dẻo thơm cho mọi nhà",
     "description": "# Gạo 5451 – Bữa cơm gia đình ấm cúng\n\nGiống lúa OM 5451 trứ danh vùng Đồng bằng sông Cửu Long, là sự lựa chọn quen thuộc của hàng triệu gia đình Việt nhờ sự cân bằng hoàn hảo giữa độ dẻo và hương vị.\n\n## Đặc điểm\n\n- **Hạt gạo:** Thon dài, màu trắng sữa hơi đục, ít bạc bụng.\n- **Khi nấu:** Cơm dẻo vừa, mềm mại, tơi xốp, mùi thơm nhẹ nhàng dễ chịu.\n- **Ưu điểm:** Cơm vẫn mềm ngon ngay cả khi để nguội, rất dễ nấu và phù hợp với khẩu vị đại đa số người Việt.\n\n## Ứng dụng\n\nLà loại gạo \"quốc dân\" phù hợp cho bữa cơm gia đình hàng ngày, bếp ăn văn phòng, hay các quán cơm niêu yêu cầu chất lượng gạo ổn định.\n\n> \"Hương vị thân quen, gắn kết yêu thương trong từng bữa cơm nhà\"",
-    "image": "/images/products/gao-5451-hero.png",
+    "image": "/images/Gemini_Generated_Image_u6v79vu6v79vu6v7.png",
     "gallery": [
       "/images/products/gao-5451-1.jpg",
       "/images/products/gao-5451-2.jpg"
@@ -85,7 +85,7 @@
     ],
     "origin": "Đồng bằng sông Cửu Long",
     "weight": "10kg, 25kg",
-    "price": "145.000đ/10kg",
+    "price": "Thương lượng",
     "themeColor": "#1976D2",
     "accentColor": "#0D47A1",
     "relatedProducts": ["gao-st25-01", "gao-st25-organic"],

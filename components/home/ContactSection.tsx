@@ -51,7 +51,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-lg font-bold text-text-dark mb-1">Hotline</h3>
-                  <p className="text-2xl font-bold text-primary">0785 691 369</p>
+                  <p className="text-2xl font-bold text-primary">078 469 1369</p>
                   <p className="text-sm text-text-gray mt-1">Hỗ trợ 24/7</p>
                 </div>
               </div>

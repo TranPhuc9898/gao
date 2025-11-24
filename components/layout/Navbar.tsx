@@ -1,6 +1,8 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
+import siteConfig from '@/data/site-config.json'
 import { Container } from '@/components/ui/Container'
 import { useState, useEffect } from 'react'
 import { motion, useScroll, useMotionValueEvent } from 'framer-motion'
@@ -35,12 +37,15 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className={`w-10 h-10 rounded-full flex items-center justify-center border-2 transition-colors ${
-              isScrolled ? 'bg-primary border-primary text-white' : 'bg-white/10 border-white text-white backdrop-blur-sm'
+            <div className={`relative w-12 h-12 rounded-full overflow-hidden border-2 transition-colors ${
+              isScrolled ? 'border-primary' : 'border-white'
             }`}>
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                <path d="M10 2C6 2 3 5 3 8c0 1.5.5 2.9 1.4 4L10 20l5.6-8c.9-1.1 1.4-2.5 1.4-4 0-3-3-6-7-6zm0 9c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3z"/>
-              </svg>
+              <Image
+                src={siteConfig.logo}
+                alt={siteConfig.name}
+                fill
+                className="object-cover"
+              />
             </div>
             <div>
               <p className={`font-script text-2xl leading-none transition-colors ${

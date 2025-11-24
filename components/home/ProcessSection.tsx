@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { motion, useScroll, useTransform } from 'framer-motion'
 import { useRef } from 'react'
 
@@ -14,7 +15,8 @@ const steps = [
     num: '02',
     title: 'Gieo Trồng',
     desc: 'Gieo mạ trên đất phù sa màu mỡ, chăm sóc bằng nguồn nước sạch tự nhiên.',
-    color: '#8BC34A'
+    color: '#8BC34A',
+    image: '/images/products/Gemini_Generated_Image_thgpavthgpavthgp.png'
   },
   {
     num: '03',
@@ -26,7 +28,8 @@ const steps = [
     num: '04',
     title: 'Thu Hoạch',
     desc: 'Gặt lúa đúng độ chín vàng, phơi nắng tự nhiên để giữ trọn hương vị.',
-    color: '#FFC107'
+    color: '#FFC107',
+    image: '/images/products/Gemini_Generated_Image_zfu4vnzfu4vnzfu4.png'
   },
   {
     num: '05',
@@ -118,14 +121,25 @@ export default function ProcessSection() {
                   className="flex-1 w-full"
                 >
                   <div className="aspect-video rounded-2xl bg-white/5 border border-white/10 backdrop-blur-sm flex items-center justify-center group hover:bg-white/10 transition-colors overflow-hidden relative">
-                    {/* Placeholder for future images */}
-                    <div className="absolute inset-0 bg-gradient-to-br from-transparent to-black/40" />
-                    <span className="text-white/20 font-script text-2xl group-hover:text-white/40 transition-colors z-10">
-                      Hình ảnh {step.title}
-                    </span>
+                    {step.image ? (
+                      <Image
+                        src={step.image}
+                        alt={step.title}
+                        fill
+                        className="object-cover transition-transform duration-700 group-hover:scale-110"
+                      />
+                    ) : (
+                      <>
+                        {/* Placeholder for future images */}
+                        <div className="absolute inset-0 bg-gradient-to-br from-transparent to-black/40" />
+                        <span className="text-white/20 font-script text-2xl group-hover:text-white/40 transition-colors z-10">
+                          Hình ảnh {step.title}
+                        </span>
+                      </>
+                    )}
                     
                     {/* Magical Particles */}
-                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700">
+                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none">
                       {[...Array(5)].map((_, i) => (
                         <div 
                           key={i}

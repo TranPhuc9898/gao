@@ -9,26 +9,26 @@ export function ProductsGrid() {
   const productConfig = {
     gao: {
       color: 'primary',
-      bgGradient: 'from-primary to-primary-dark',
+      bgGradient: 'from-white to-gray-50',
       image: 'photo-1574943320219-553eb213f72d',
       badge: '5451',
     },
     cay: {
       color: 'secondary',
-      bgGradient: 'from-secondary to-secondary-dark',
+      bgGradient: 'from-white to-gray-50',
       image: 'photo-1511497584788-876760111969',
       badge: 'ST25',
     },
     trom: {
       color: 'primary',
-      bgGradient: 'from-primary-light to-primary',
+      bgGradient: 'from-white to-gray-50',
       image: 'photo-1470071459604-3b5ec3a7fe05',
       badge: 'ORGANIC',
     },
   }
 
   return (
-    <section id="products" className="py-16 md:py-24 bg-rice-light">
+    <section id="products" className="py-16 md:py-24 bg-gray-50">
       <Container>
         <div className="text-center mb-12">
           <p className="text-primary text-sm font-bold uppercase tracking-wider mb-2">SẢN PHẨM</p>
@@ -50,33 +50,33 @@ export function ProductsGrid() {
                 className="group block relative overflow-hidden rounded-2xl shadow-2xl hover:shadow-3xl transition-all duration-500 hover:-translate-y-2"
               >
                 {/* Packaging-style background */}
-                <div className={`relative bg-gradient-to-br ${config.bgGradient} p-8 pt-16 pb-32 min-h-[500px]`}>
+                <div className={`relative bg-gradient-to-br ${config.bgGradient} p-8 pt-16 pb-32 min-h-[500px] border border-gray-100`}>
                   {/* Circular Badge - Top */}
-                  <div className="absolute top-6 left-1/2 -translate-x-1/2 w-24 h-24 rounded-full bg-white/20 backdrop-blur-sm border-4 border-white/60 flex items-center justify-center shadow-xl">
+                  <div className="absolute top-6 left-1/2 -translate-x-1/2 w-24 h-24 rounded-full bg-primary/5 backdrop-blur-sm border-4 border-primary/10 flex items-center justify-center shadow-xl">
                     <div className="text-center">
-                      <svg className="w-10 h-10 text-white mx-auto mb-1" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-10 h-10 text-primary mx-auto mb-1" fill="currentColor" viewBox="0 0 20 20">
                         <path d="M10 2C6 2 3 5 3 8c0 1.5.5 2.9 1.4 4L10 20l5.6-8c.9-1.1 1.4-2.5 1.4-4 0-3-3-6-7-6zm0 9c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3z"/>
                       </svg>
-                      <p className="text-white text-[10px] font-bold leading-tight">GẠO SẠCH<br/>CÂY TRÔM</p>
+                      <p className="text-primary text-[10px] font-bold leading-tight">GẠO SẠCH<br/>CÂY TRÔM</p>
                     </div>
                   </div>
 
                   {/* Product Name - Script + Bold */}
                   <div className="text-center mb-6">
-                    <h3 className="font-script text-5xl text-white mb-2 drop-shadow-lg">
+                    <h3 className="font-script text-5xl text-primary mb-2 drop-shadow-sm">
                       Gạo Sạch
                     </h3>
-                    <p className="text-3xl text-white font-black uppercase tracking-[0.2em] drop-shadow-lg">
+                    <p className="text-3xl text-primary-dark font-black uppercase tracking-[0.2em] drop-shadow-sm">
                       {product.name.toUpperCase()}
                     </p>
-                    <div className="mt-4 inline-block bg-white/20 backdrop-blur-sm px-4 py-1 rounded-full">
-                      <p className="text-white text-2xl font-bold">{config.badge}</p>
+                    <div className="mt-4 inline-block bg-primary/10 backdrop-blur-sm px-4 py-1 rounded-full">
+                      <p className="text-primary text-2xl font-bold">{config.badge}</p>
                     </div>
                   </div>
 
                   {/* Decorative Wheat */}
                   <div className="absolute left-8 bottom-48">
-                    <svg className="w-12 h-32 text-white/30" fill="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-12 h-32 text-primary/10" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M12 2C10.9 2 10 2.9 10 4C10 5.1 10.9 6 12 6C13.1 6 14 5.1 14 4C14 2.9 13.1 2 12 2M12 8C10.9 8 10 8.9 10 10C10 11.1 10.9 12 12 12C13.1 12 14 11.1 14 10C14 8.9 13.1 8 12 8M12 14C10.9 14 10 14.9 10 16C10 17.1 10.9 18 12 18C13.1 18 14 17.1 14 16C14 14.9 13.1 14 12 14M12 20C10.9 20 10 20.9 10 22H14C14 20.9 13.1 20 12 20Z"/>
                     </svg>
                   </div>
@@ -101,17 +101,17 @@ export function ProductsGrid() {
                       </svg>
                     </div>
                     <p className="text-primary text-xs font-bold">VIỆT NAM CHẤT LƯỢNG</p>
-                    <div className="w-10 h-10 rounded-full bg-white/90 flex items-center justify-center border-2 border-secondary/20">
-                      <p className="text-secondary text-xs font-black">100%</p>
+                    <div className="w-10 h-10 rounded-full bg-white/90 flex items-center justify-center border-2 border-orange/20">
+                      <p className="text-orange text-xs font-black">100%</p>
                     </div>
                   </div>
 
                   {/* Features Text */}
                   <div className="absolute bottom-20 left-6 right-6">
-                    <p className="text-white/90 text-sm text-center italic">
+                    <p className="text-gray-600 text-sm text-center italic">
                       ⭐ Không chất bảo quản
                     </p>
-                    <p className="text-white/90 text-sm text-center italic">
+                    <p className="text-gray-600 text-sm text-center italic">
                       ⭐ Giữ nguyên vị cảm
                     </p>
                   </div>
