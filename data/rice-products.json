@@ -2,97 +2,145 @@
   {
     "id": "gao-st25-01",
     "slug": "gao-st25",
-    "name": "Gạo ST25",
+    "name": "Gạo ST25 (Lúa Tôm)",
     "category": "rice",
     "color": "green",
-    "tagline": "Gạo ngon nhất thế giới",
-    "description": "# Gạo ST25 – Tuyệt phẩm gạo Việt\n\nGạo ST25 là niềm tự hào của nông nghiệp Việt Nam, vinh dự đạt giải \"Gạo ngon nhất thế giới\" năm 2019. Đây là kết quả của hơn 20 năm nghiên cứu và lai tạo của kỹ sư Hồ Quang Cua.\n\n## Đặc điểm nổi bật\n\n- **Hạt gạo:** Thon dài, trắng trong, không bạc bụng.\n- **Hương vị:** Mùi thơm lá dứa thoang thoảng hòa quyện cùng hương cốm non tự nhiên.\n- **Khi nấu:** Cơm dẻo, mềm, vị ngọt đậm đà từ tinh bột cao cấp. Đặc biệt cơm vẫn giữ được độ dẻo thơm ngay cả khi để nguội.\n\n## Giá trị dinh dưỡng\n\nST25 có hàm lượng protein cao (gấp 1.5 lần gạo thường), giàu vitamin và khoáng chất, phù hợp cho người cần bổ sung năng lượng và dinh dưỡng lành mạnh.\n\n> \"ST25 không chỉ là gạo, đó là tinh hoa trí tuệ và tâm huyết người Việt\"",
+    "tagline": "Gạo ngon nhất thế giới - Đặc sản Sóc Trăng",
+    "description": "Dòng gạo ST25 chính hiệu được canh tác theo mô hình Lúa - Tôm bền vững. Hạt gạo dài, trắng trong, không bạc bụng, mang hương thơm đặc trưng của lá dứa và cốm non.",
+    "specs": {
+      "type": "ST25 chính hiệu (Kỹ sư Hồ Quang Cua)",
+      "characteristics": "Dẻo nhiều, thơm đậm, vị ngọt hậu",
+      "shape": "Hạt dài, trắng trong, không bạc bụng",
+      "amylose": "18 - 20%",
+      "moisture": "< 14%"
+    },
+    "packaging": "Túi 5kg (hút chân không)",
+    "price": "Liên hệ giá sỉ/lẻ",
+    "delivery": "Miễn phí ship nội thành (tối thiểu 10kg)",
     "image": "/images/products/gao-st25-hero.png",
     "gallery": [
       "/images/products/gao-st25-1.jpg",
       "/images/products/gao-st25-2.jpg"
     ],
     "features": [
-      "Gạo ngon nhất thế giới 2019",
-      "Hương lá dứa & cốm non",
-      "Hạt dài, trắng trong",
-      "Cơm dẻo, ngọt đậm đà",
-      "Giàu protein & khoáng chất"
+      "Đạt giải Gạo ngon nhất thế giới",
+      "Không chất bảo quản - Không chất tạo mùi",
+      "Giàu Protein và khoáng chất",
+      "Cơm vẫn mềm dẻo khi để nguội"
     ],
     "origin": "Sóc Trăng, Việt Nam",
-    "weight": "5kg, 10kg",
-    "price": "Thương lượng",
+    "weight": "5kg, 10kg, 25kg",
     "themeColor": "#388E3C",
     "accentColor": "#1B5E20",
-    "relatedProducts": ["gao-st25-organic", "gao-5451"],
+    "relatedProducts": [
+      "gao-st25-organic",
+      "gao-5451"
+    ],
     "metadata": {
-      "title": "Gạo ST25 – Gạo ngon nhất thế giới",
-      "description": "Gạo ST25 chính hãng, hạt dài trắng trong, thơm mùi lá dứa, cơm dẻo ngọt. Niềm tự hào gạo Việt.",
-      "keywords": ["gạo ST25", "gạo ngon nhất thế giới", "gạo sóc trăng", "gạo thơm"]
+      "title": "Gạo ST25 chính hãng – Gạo ngon nhất thế giới",
+      "description": "Gạo ST25 chính hãng, hạt dài trắng trong, thơm mùi lá dứa, cơm dẻo ngọt. Giao hàng tận nơi miễn phí.",
+      "keywords": [
+        "gạo ST25",
+        "gạo ngon nhất thế giới",
+        "gạo sóc trăng",
+        "gạo sạch giao tận nơi"
+      ]
     }
   },
   {
     "id": "gao-st25-organic",
     "slug": "gao-st25-huu-co",
-    "name": "Gạo ST25 Hữu Cơ",
+    "name": "Gạo ST25 Nguyên Cám (Hữu Cơ)",
     "category": "rice",
     "color": "gold",
-    "tagline": "Tinh khiết chuẩn quốc tế",
-    "description": "# Gạo ST25 Hữu Cơ – Chuẩn mực sống xanh\n\nPhiên bản cao cấp nhất của dòng gạo ST25, được canh tác theo quy trình hữu cơ nghiêm ngặt (Organic), đạt các chứng nhận quốc tế uy tín.\n\n## Quy trình canh tác\n\n- **Mô hình Lúa - Tôm:** Lúa được trồng trên vùng đất nuôi tôm, cây lúa hấp thụ chất dinh dưỡng tự nhiên, hoàn toàn không sử dụng phân bón hóa học hay thuốc trừ sâu.\n- **An toàn tuyệt đối:** Không biến đổi gen, không chất kích thích tăng trưởng, không chất bảo quản.\n\n## Lợi ích sức khỏe\n\nLà lựa chọn hoàn hảo cho chế độ ăn thực dưỡng (Macrobiotics), người ăn kiêng, người cao tuổi và trẻ em nhờ độ an toàn và hàm lượng dinh dưỡng vượt trội.\n\n> \"Sự kết hợp hoàn hảo giữa giống lúa thượng hạng và quy trình canh tác thuận tự nhiên\"",
+    "tagline": "Dinh dưỡng vượt trội - Chuẩn sạch Organic",
+    "description": "Sản phẩm gạo ST25 giữ nguyên lớp cám dinh dưỡng, giàu vitamin nhóm B và chất xơ. Phù hợp cho người ăn kiêng, tiểu đường và thực dưỡng.",
+    "specs": {
+      "type": "ST25 Hữu cơ nguyên cám",
+      "characteristics": "Dẻo vừa, thơm nhẹ, vị bùi của cám",
+      "shape": "Hạt dài, màu nâu nhạt tự nhiên",
+      "amylose": "18 - 20%",
+      "moisture": "< 14%"
+    },
+    "packaging": "Túi 2kg/5kg hút chân không",
+    "price": "Liên hệ",
+    "delivery": "Ship nhanh 2h nội thành",
     "image": "/images/hero-bg-new.png",
     "gallery": [
       "/images/products/gao-st25-organic-1.jpg",
       "/images/products/gao-st25-organic-2.jpg"
     ],
     "features": [
-      "Canh tác hữu cơ (Organic)",
-      "Mô hình Lúa - Tôm bền vững",
-      "Không hóa chất độc hại",
-      "An toàn tuyệt đối cho sức khỏe",
-      "Hương vị thuần khiết nhất"
+      "Chứng nhận hữu cơ quốc tế",
+      "Giàu chất xơ và Vitamin nhóm B",
+      "Tốt cho hệ tiêu hóa và tim mạch",
+      "Canh tác hoàn toàn không hóa chất"
     ],
-    "origin": "Vùng luân canh Lúa - Tôm, Sóc Trăng",
+    "origin": "Vùng luân canh Lúa - Tôm",
     "weight": "2kg, 5kg",
-    "price": "Thương lượng",
     "themeColor": "#D4AF37",
     "accentColor": "#827717",
-    "relatedProducts": ["gao-st25-01", "gao-5451"],
+    "relatedProducts": [
+      "gao-st25-01",
+      "gao-5451"
+    ],
     "metadata": {
-      "title": "Gạo ST25 Hữu Cơ – Tinh khiết & An toàn",
-      "description": "Gạo ST25 Organic canh tác theo mô hình lúa tôm, không hóa chất, an toàn tuyệt đối cho sức khỏe.",
-      "keywords": ["gạo ST25 hữu cơ", "gạo organic", "gạo sạch", "lúa tôm"]
+      "title": "Gạo ST25 Hữu Cơ Nguyên Cám – Sức khỏe vàng",
+      "description": "Gạo ST25 Organic nguyên cám, không hóa chất, giàu dinh dưỡng. Lựa chọn cho lối sống lành mạnh.",
+      "keywords": [
+        "gạo ST25 nguyên cám",
+        "gạo hữu cơ",
+        "gạo thực dưỡng",
+        "gạo sạch"
+      ]
     }
   },
   {
     "id": "gao-5451",
     "slug": "gao-5451",
-    "name": "Gạo 5451",
+    "name": "Gạo 5451 (Dẻo Thơm)",
     "category": "rice",
     "color": "blue",
-    "tagline": "Dẻo thơm cho mọi nhà",
-    "description": "# Gạo 5451 – Bữa cơm gia đình ấm cúng\n\nGiống lúa OM 5451 trứ danh vùng Đồng bằng sông Cửu Long, là sự lựa chọn quen thuộc của hàng triệu gia đình Việt nhờ sự cân bằng hoàn hảo giữa độ dẻo và hương vị.\n\n## Đặc điểm\n\n- **Hạt gạo:** Thon dài, màu trắng sữa hơi đục, ít bạc bụng.\n- **Khi nấu:** Cơm dẻo vừa, mềm mại, tơi xốp, mùi thơm nhẹ nhàng dễ chịu.\n- **Ưu điểm:** Cơm vẫn mềm ngon ngay cả khi để nguội, rất dễ nấu và phù hợp với khẩu vị đại đa số người Việt.\n\n## Ứng dụng\n\nLà loại gạo \"quốc dân\" phù hợp cho bữa cơm gia đình hàng ngày, bếp ăn văn phòng, hay các quán cơm niêu yêu cầu chất lượng gạo ổn định.\n\n> \"Hương vị thân quen, gắn kết yêu thương trong từng bữa cơm nhà\"",
+    "tagline": "Sự lựa chọn hoàn hảo cho bữa cơm gia đình",
+    "description": "Giống lúa OM 5451 cho hạt gạo thon dài, dẻo vừa và mềm cơm. Đây là loại gạo phổ biến nhất cho bếp ăn gia đình và văn phòng vì chất lượng ổn định và giá thành hợp lý.",
+    "specs": {
+      "type": "OM 5451 vùng ĐBSCL",
+      "characteristics": "Dẻo vừa, mềm cơm, vị ngọt dịu",
+      "shape": "Hạt thon dài, trắng sữa",
+      "amylose": "20 - 22%",
+      "moisture": "< 14%"
+    },
+    "packaging": "Túi 10kg/25kg",
+    "price": "Liên hệ",
+    "delivery": "Giao hàng tận nơi miễn phí ship",
     "image": "/images/Gemini_Generated_Image_u6v79vu6v79vu6v7.png",
     "gallery": [
       "/images/products/gao-5451-1.jpg",
       "/images/products/gao-5451-2.jpg"
     ],
     "features": [
-      "Gạo dẻo vừa, mềm cơm",
-      "Hạt thon dài, trắng sữa",
-      "Dễ nấu, vị ngọt lành",
-      "Phù hợp mọi gia đình",
-      "Giá thành hợp lý"
+      "Hạt gạo sạch, đạt chuẩn xuất khẩu",
+      "Cơm vẫn mềm ngon khi để nguội",
+      "Giá thành tiết kiệm, chất lượng cao",
+      "Phù hợp cho mọi đối tượng"
     ],
     "origin": "Đồng bằng sông Cửu Long",
-    "weight": "10kg, 25kg",
-    "price": "Thương lượng",
+    "weight": "10kg, 25kg, 50kg",
     "themeColor": "#1976D2",
     "accentColor": "#0D47A1",
-    "relatedProducts": ["gao-st25-01", "gao-st25-organic"],
+    "relatedProducts": [
+      "gao-st25-01",
+      "gao-st25-organic"
+    ],
     "metadata": {
-      "title": "Gạo 5451 – Dẻo thơm, mềm cơm",
-      "description": "Gạo 5451 đặc sản miền Tây, cơm dẻo vừa, mềm ngon, giá tốt. Lựa chọn số 1 cho bữa cơm gia đình.",
-      "keywords": ["gạo 5451", "gạo dẻo", "gạo miền tây", "gạo ngon giá rẻ"]
+      "title": "Gạo 5451 – Dẻo ngon, giá tốt",
+      "description": "Gạo 5451 dẻo vừa, mềm cơm. Gung cấp sỉ lẻ cho gia đình, đại lý, từ thiện.",
+      "keywords": [
+        "gạo 5451",
+        "gạo dẻo thơm",
+        "gạo giá sỉ",
+        "gao tu thien"
+      ]
     }
   }
 ]

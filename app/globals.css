@@ -1,50 +1,38 @@
-/* Google Fonts must be imported first */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;600;700&family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Dancing+Script:wght@400;500;600;700&display=swap');
 
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FCFBF7;
+  --foreground: #1A1A1A;
 }
 
 @theme inline {
-  /* Gạo Sạch Cây Trôm - Primary greens from hero */
-  --color-primary: #389E4C;       /* Main brand green */
-  --color-primary-light: #4CAF50; /* Badge green */
-  --color-primary-dark: #2B8C40;  /* Darker green */
-
-  /* Rice branding palette from Behance */
-  --color-earth-dark: #216436;    /* Dark forest */
-  --color-earth-medium: #588A3D;  /* Medium green */
-  --color-earth-light: #98CB4F;   /* Light lime */
-
-  /* Accent colors */
-  --color-yellow: #DEC024;        /* Golden yellow */
-  --color-orange: #DBA728;        /* Warm orange */
-  --color-pink: #F06292;          /* Gạo Huyết Rồng */
-  --color-brown: #D7CCC8;         /* Gạo Già */
-
-  /* Neutral colors */
-  --color-cream: #F5F5F0;         /* Off-white/packaging */
-  --color-cream-light: #FFF8E7;   /* Lighter cream */
-  --color-cream-dark: #E9EFE2;    /* Light green bg */
-
-  /* Text colors */
-  --color-text-dark: #333333;
-  --color-text-gray: #555555;
-
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-
-  /* Typography - Script + Bold mix like packaging */
-  --font-sans: 'Inter', system-ui, sans-serif;
+  /* Gạo Sạch Cây Trôm - Premium Palette */
+  --color-primary: #1B4332;       /* Imperial Green */
+  --color-primary-light: #2D6A4F; /* Forest Green */
+  --color-primary-dark: #081C15;  /* Deep Forest */
+  
+  --color-accent: #D4AF37;        /* Champagne Gold */
+  --color-accent-light: #F1C40F;  /* Bright Gold */
+  
+  /* Natural/Earth tones */
+  --color-cream: #FDFCF8;
+  --color-cream-dark: #F5F1E6;
+  --color-sand: #E3D5CA;
+  
+  /* Text */
+  --color-text-dark: #1A1A1A;
+  --color-text-gray: #4A4A4A;
+  
+  /* Typography */
+  --font-sans: 'Outfit', system-ui, sans-serif;
   --font-serif: 'Playfair Display', Georgia, serif;
   --font-script: 'Dancing Script', cursive;
 
-  /* Font sizes */
-  --font-size-hero: 5rem;
-  --line-height-hero: 1.1;
+  /* Premium Utilities */
+  --shadow-premium: 0 10px 30px -10px rgba(0, 0, 0, 0.1);
+  --shadow-glass: 0 8px 32px 0 rgba(27, 67, 50, 0.1);
 }
 
 @media (prefers-color-scheme: dark) {
