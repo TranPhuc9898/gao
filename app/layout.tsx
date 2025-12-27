@@ -19,11 +19,24 @@ export const metadata: Metadata = {
     siteName: 'Gạo – Cây – Trôm',
     title: 'Gạo – Cây – Trôm | Thiên Nhiên Việt',
     description: 'Hành trình hạt gạo từ đất mẹ, khám phá thiên nhiên và văn hóa nông nghiệp bền vững của Việt Nam',
+    images: [
+      {
+        url: '/images/products/Gemini_Generated_Image_u0u3weu0u3weu0u3.png',
+        width: 1200,
+        height: 630,
+        alt: 'Gạo – Cây – Trôm',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Gạo – Cây – Trôm | Thiên Nhiên Việt',
     description: 'Hành trình hạt gạo từ đất mẹ, khám phá thiên nhiên và văn hóa nông nghiệp bền vững của Việt Nam',
+    images: ['/images/products/Gemini_Generated_Image_u0u3weu0u3weu0u3.png'],
+  },
+  icons: {
+    icon: '/images/products/Gemini_Generated_Image_u0u3weu0u3weu0u3.png',
+    apple: '/images/products/Gemini_Generated_Image_u0u3weu0u3weu0u3.png',
   },
 };
 
