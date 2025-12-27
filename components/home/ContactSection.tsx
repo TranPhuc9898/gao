@@ -7,7 +7,7 @@ export default function ContactSection() {
     <section id="contact" className="py-24 bg-white relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          
+
           {/* Contact Info */}
           <motion.div
             initial={{ opacity: 0, x: -50 }}
@@ -19,7 +19,7 @@ export default function ContactSection() {
               Liên hệ với chúng tôi
             </span>
             <h2 className="text-4xl md:text-5xl font-serif font-bold text-text-dark mb-8">
-              Mang hương vị <br/>
+              Mang hương vị <br />
               <span className="text-primary italic">thiên nhiên</span> về nhà
             </h2>
             <p className="text-lg text-text-gray mb-12 font-light leading-relaxed">
@@ -51,7 +51,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-lg font-bold text-text-dark mb-1">Hotline</h3>
-                  <p className="text-2xl font-bold text-primary">078 469 1369</p>
+                  <p className="text-2xl font-bold text-primary">090245147</p>
                   <p className="text-sm text-text-gray mt-1">Hỗ trợ 24/7</p>
                 </div>
               </div>
@@ -66,13 +66,13 @@ export default function ContactSection() {
             transition={{ duration: 0.8 }}
             className="relative h-[500px] w-full rounded-3xl overflow-hidden shadow-2xl border-4 border-white"
           >
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.203205776356!2d106.6455823!3d10.7994444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175294975070123%3A0x573254004632541!2zMzEvNSBIb8OgbmcgSG9hIFRow6FtLCBQaMaw4budbmcgMTMsIFTDom4gQsOsbmgsIEjhu5MgQ2jDrSBNaW5o!5e0!3m2!1svi!2s!4v1700000000000!5m2!1svi!2s" 
-              width="100%" 
-              height="100%" 
-              style={{ border: 0 }} 
-              allowFullScreen 
-              loading="lazy" 
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.203205776356!2d106.6455823!3d10.7994444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175294975070123%3A0x573254004632541!2zMzEvNSBIb8OgbmcgSG9hIFRow6FtLCBQaMaw4budbmcgMTMsIFTDom4gQsOsbmgsIEjhu5MgQ2jDrSBNaW5o!5e0!3m2!1svi!2s!4v1700000000000!5m2!1svi!2s"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               className="absolute inset-0 grayscale hover:grayscale-0 transition-all duration-700"
             />

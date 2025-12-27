@@ -2,7 +2,7 @@
   {
     "id": "gao-st25-01",
     "slug": "gao-st25",
-    "name": "Gạo ST25 (Lúa Tôm)",
+    "name": "Gạo ST25",
     "category": "rice",
     "color": "green",
     "tagline": "Gạo ngon nhất thế giới - Đặc sản Sóc Trăng",
@@ -17,7 +17,7 @@
     "packaging": "Túi 5kg (hút chân không)",
     "price": "Liên hệ giá sỉ/lẻ",
     "delivery": "Miễn phí ship nội thành (tối thiểu 10kg)",
-    "image": "/images/products/gao-st25-hero.png",
+    "image": "/images/products/gao-st25-new.png",
     "gallery": [
       "/images/products/gao-st25-1.jpg",
       "/images/products/gao-st25-2.jpg"
